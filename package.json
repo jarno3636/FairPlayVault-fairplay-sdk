@@ -32,7 +32,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-org/fairplay-sdk"
+    "url": "https://github.com/jarno3636/fairplay-sdk"
   },
   "peerDependencies": {
     "viem": ">=2.0.0"
